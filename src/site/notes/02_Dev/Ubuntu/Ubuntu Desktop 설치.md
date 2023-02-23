@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-dev/ubuntu/ubuntu-desktop/","tags":["gardenEntry"]}
+dg-publish: true
+permalink: "/02-dev/ubuntu/ubuntu-desktop/"
+tags:
+  - gardenEntry
+title: "Ubuntu Desktop 설치"
 ---
 
 
