@@ -10,6 +10,7 @@ module.exports = {
     `gatsby-plugin-netlify`
   ],
   siteMetadata: {
-    title: process.env.SITE_NAME,
+    title: `Woogy's Notes`,
+//     title: process.env.SITE_NAME,
   },
 }
