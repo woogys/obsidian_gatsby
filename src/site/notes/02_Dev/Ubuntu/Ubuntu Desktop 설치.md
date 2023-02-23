@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-dev/ubuntu/ubuntu-desktop/","tags":["gardenEntry"]}
 title: "Ubuntu Desktop"
+{"dg-publish":true,"permalink":"/02-dev/ubuntu/ubuntu-desktop/","tags":["gardenEntry"]}
 ---
 
 
