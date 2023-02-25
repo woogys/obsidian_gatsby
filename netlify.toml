@@ -8,4 +8,4 @@
   status = 404
 
 [template.environment]
-  TITLE = "set your site title here"
+  TITLE = "Woogy's Blog"
