@@ -8,7 +8,7 @@ title: "Ubuntu Desktop 설치"
 
 
 
-1. ISO 파일 다운로드 후 설치용 USB 만들기 ([https://parkaparka.tistory.com/31](https://parkaparka.tistory.com/31))![2023-02-12_10-41-26 1.png](/img/user/03_Attached%20Files/2023-02-12_10-41-26%201.png)![2023-02-12_10-42-08.png](/img/user/03_Attached%20Files/2023-02-12_10-42-08.png)![2023-02-12_10-42-34.png](/img/user/03_Attached%20Files/2023-02-12_10-42-34.png)
+1. ISO 파일 다운로드 후 설치용 USB 만들기 ([https://parkaparka.tistory.com/31](https://parkaparka.tistory.com/31))![2023-02-12_10-41-26 1.png](/notes/03_Attached%20Files/2023-02-12_10-41-26%201.png)![2023-02-12_10-42-08.png](/notes/03_Attached%20Files/2023-02-12_10-42-08.png)![2023-02-12_10-42-34.png](/notes/03_Attached%20Files/2023-02-12_10-42-34.png)
 2. USB 꽂고 BIOS모드 진입해서 부팅 우선순위 USB로 지정
 3.  설치
 4.  아이피 주소 확인 hostname -I
